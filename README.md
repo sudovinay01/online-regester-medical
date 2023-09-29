@@ -1,4 +1,4 @@
-# online-regester-medical
+# online-register-medical
 
 ![image](https://github.com/sudovinay01/online-regester-medical/assets/54681400/4101f220-0f71-4da6-b2dc-557367735117)
 
